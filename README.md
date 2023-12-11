@@ -1,7 +1,6 @@
 # Air Transportation Analysis Project
 
 ## Challenges
-Alongside the business environment challenges, several coding and data analysis challenges were encountered:
 1. **Handling Multilingual Data**: The database contained multilingual data, particularly in aircraft and airport names. Developing a method to standardize this data for consistent analysis was crucial.
 2. **Complex SQL Queries**: Extracting meaningful information required complex SQL queries, particularly when joining multiple tables and aggregating data.
 3. **Data Visualization**: Presenting data in a comprehensible and insightful manner using libraries like Matplotlib and Seaborn was challenging, especially when dealing with large datasets.
