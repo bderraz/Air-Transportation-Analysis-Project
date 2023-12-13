@@ -1,11 +1,9 @@
 # Air Transportation Analysis Project
 
 ## Challenges
-1. **Handling Multilingual Data**: The database contained multilingual data, particularly in aircraft and airport names. Developing a method to standardize this data for consistent analysis was crucial.
+1. **Handling Multilingual Data**: The database contained multilingual data, particularly in aircraft and airport names. Developing a method to standardize this data for consistent analysis.
 2. **Complex SQL Queries**: Extracting meaningful information required complex SQL queries, particularly when joining multiple tables and aggregating data.
 3. **Data Visualization**: Presenting data in a comprehensible and insightful manner using libraries like Matplotlib and Seaborn was challenging, especially when dealing with large datasets.
-4. **Performance Optimization**: Ensuring efficient data processing and analysis in Python, given the large volume of data, was a key concern.
-5. **Accuracy in Data Interpretation**: Interpreting the data correctly to make valid recommendations for the business was crucial and challenging, given the complexity of the data.
 
 ## Goal
 To analyze the company’s database for identifying opportunities to increase seat occupancy rates and thereby boost profit per seat.
