@@ -12,19 +12,15 @@ To analyze the company’s database for identifying opportunities to increase se
 
 ## Approach
 The project involved diving deep into the company's operational data to identify patterns and opportunities. The key steps included:
-- Importing libraries like `sqlite3`, `pandas`, `numpy`, `matplotlib`, `seaborn`, and `json`.
+- Importing libraries like `sqlite3`, `pandas`, `numpy`, `matplotlib` and `seaborn`
 - Data exploration and cleaning, including handling multilingual data.
 - Data visualization to analyze aircraft models, seat capacities, and flight fare distributions.
 - Trend analysis of ticket bookings and revenue.
-- Assessing the occupancy rate for different aircraft and estimating the impact of a 10% increase in occupancy rate on annual turnover.
+- Assessing the occupancy rate for different aircraft
 
 ## Key Learnings and Accomplishments
-- Mastered data manipulation and analysis using Python and SQL.
-- Enhanced my skills in data visualization, revealing critical insights through various types of plots and charts.
-- Developed a deeper understanding of the aviation industry's financial aspects, particularly in terms of profitability and efficiency.
-- Gained experience in handling and interpreting large datasets, enabling me to draw meaningful conclusions and recommendations.
-- Improved my problem-solving skills by applying theoretical knowledge to a real-world business scenario.
-- Learned the significance of occupancy rates and pricing strategies in maximizing airline revenue.
+- Data manipulation and analysis using Python and SQL.
+- Gained experience in handling and interpreting large datasets
 
 ## Tools and Technologies Used
 - **Programming Languages**: Python
